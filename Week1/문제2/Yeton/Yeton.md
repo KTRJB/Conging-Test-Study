@@ -2,66 +2,59 @@
 
 ```swift
 
-func solution(_ genres:[String], _ plays:[Int]) -> [Int] {
-    var dics: [String: Int] = [:]
-    var playNumByGenres: [String: [Int]] = [:]
+// 2. Lv.2 - 뒤에 있는 큰 수 찾기
+
+
+### 마지막 4문제 시간초과 ㅠㅠ
+
+func solution(_ numbers:[Int]) -> [Int] {
+    var result = [Int]()
     
-    for i in 0...genres.count - 1 {
+    for i in 0...numbers.count - 1 {
+        var num = 0
         
-        if dics.filter({ $0.key == genres[i] }).count > 0 {
-            dics[genres[i]]! += plays[i]
-        } else {
-            dics.updateValue(plays[i], forKey: genres[i])
-        }
-        
-        
-        if playNumByGenres.filter({ $0.key == genres[i] }).count > 0 {
-            playNumByGenres[genres[i]]?.append(plays[i])
-        } else {
-            playNumByGenres.updateValue([plays[i]], forKey: genres[i])
-        }
-        
-    }
-    
-    var dicsSorted = dics.sorted { $0.value > $1.value }
-    
-    for (genre, values) in playNumByGenres {
-        playNumByGenres[genre] = values.sorted(by: >)
-    }
-    
-    var result: [Int] = []
-    for (genre, value) in dicsSorted {
-        if playNumByGenres[genre]!.count >= 2 {
-            if playNumByGenres[genre]![0] == playNumByGenres[genre]![1] {
-                var indexs: [Int] = []
-                
-                for (index, play) in plays.enumerated() {
-                    if play == playNumByGenres[genre]![0] {
-                        indexs.append(index)
-                    }
-                }
-                
-                indexs.sorted { $0 < $1 }
-                result.append(indexs[0])
-                result.append(indexs[1])
-            } else {
-                result.append(plays.firstIndex(of: playNumByGenres[genre]![0])!)
-                result.append(plays.firstIndex(of: playNumByGenres[genre]![1])!)
+        while num == 0 {
+            if i == numbers.count - 1 {
+                num = -1
+                break
             }
-        } else if  playNumByGenres[genre]!.count == 1 {
-            result.append(plays.firstIndex(of: playNumByGenres[genre]![0])!)
+            
+            for j in i+1...numbers.count - 1 {
+                if numbers[j] > numbers[i] {
+                    num = numbers[j]
+                    break
+                }
+            }
+            
+            if num == 0 {
+                num = -1
+            }
         }
         
+        result.append(num)
     }
-    print(dicsSorted)
-    print(playNumByGenres)
+    
     return result
 }
 
-print(solution(["classic", "pop", "classic", "classic", "pop"], [500, 600, 500, 400, 2500]))
+print(solution([2, 3, 3, 5]))
 
+### 개선 - stack사용해서 시간복잡도 줄이기
 
-//      필요한 데이터
-//      1.  ["classic": 1450, "pop": 3100]
-//      2.  ["classic": [800, 500, 150], "pop": [2500, 600]]
+func solution(_ numbers:[Int]) -> [Int] {
+    var stack = [0]
+    var index = 1
+    var result = Array(repeating: -1, count: numbers.count)
+    
+    while index < numbers.count {
+        while !stack.isEmpty && numbers[stack.last!] < numbers[index] {
+            ans[stack.popLast()!] = numbers[index]
+        }
+        
+        stack.append(index)
+        index += 1
+    }
+    
+    return result
+}
 ```
