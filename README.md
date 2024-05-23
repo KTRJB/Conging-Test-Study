@@ -21,7 +21,7 @@
 | 날짜  | 첫번째 문제 | 두번째 문제 | 세번째 문제| 
 |:-------:|:-----------:|:-------:|:-----------:|
 |5/23|[Lv.1 - 둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)| [Lv.2 - 뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [Lv.3 - 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|
-|5/30|[Lv.1 - 모든 레코드 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/59034)| [Lv.2 - 노선별 평균 역 사이 거리 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284531) | [Lv.3 - 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340)|
+|5/30|[Lv.1 - 크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)| [Lv.2 - 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [Lv.2 - 할인 행사]([https://school.programmers.co.kr/learn/courses/30/lessons/157340](https://school.programmers.co.kr/learn/courses/30/lessons/131127))|
 
 
 ## 🏝 커밋 규칙
