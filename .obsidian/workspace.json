@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week3/문제1/브래드/명예의 전당(1).md",
+                "file": "Week3/문제2/브래드/행렬의 곱셈.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week3/문제1/브래드/명예의 전당(1).md",
+                "file": "Week3/문제2/브래드/행렬의 곱셈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week3/문제1/브래드/명예의 전당(1).md",
+                "file": "Week3/문제2/브래드/행렬의 곱셈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week3/문제1/브래드/명예의 전당(1).md"
+                "file": "Week3/문제2/브래드/행렬의 곱셈.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "5813cc99c4a159cb",
   "lastOpenFiles": [
-    "Week2/문제2/브래드/괄호 회전하기.md",
     "Week3/문제1/브래드/명예의 전당(1).md",
+    "Week3/문제2/브래드/행렬의 곱셈.md",
+    "Week3/문제2/브래드",
+    "Week2/문제2/브래드/괄호 회전하기.md",
     "Week3/문제1/브래드"
   ]
 }
