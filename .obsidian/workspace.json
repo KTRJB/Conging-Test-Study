@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "e7cdc6c8c7e22734",
+    "type": "split",
+    "children": [
+      {
+        "id": "039e9bd15306215f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5813cc99c4a159cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week3/문제1/브래드/명예의 전당(1).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6865c56bd9c8503",
+    "type": "split",
+    "children": [
+      {
+        "id": "03751dbafd0846aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "373ece178b90c4d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15b65c9b893e6e10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebf459befeb533e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77127a42ec934344",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bfbfafec53fa6df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53899d409fa6516c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week3/문제1/브래드/명예의 전당(1).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fabc8c5638587c1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week3/문제1/브래드/명예의 전당(1).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eab7a33e1a318897",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f9f9be282ad6333",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week3/문제1/브래드/명예의 전당(1).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5813cc99c4a159cb",
+  "lastOpenFiles": [
+    "Week2/문제2/브래드/괄호 회전하기.md",
+    "Week3/문제1/브래드/명예의 전당(1).md",
+    "Week3/문제1/브래드"
+  ]
+}
