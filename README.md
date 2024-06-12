@@ -24,8 +24,9 @@
 |:-------:|:-----------:|:-------:|:-----------:|
 |5/23|[Lv.1 - 둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)| [Lv.2 - 뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [Lv.3 - 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|
 |5/30|[Lv.1 - 크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)| [Lv.2 - 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [Lv.2 - 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|
-|6/6|[Lv.1 - 덧칠하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/161989)| [Lv.2 - 귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | - |
-|6/13|[Lv.1 - 삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)| [Lv.2 - 점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [Lv.2 - 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) |
+|6/6|[Lv.1 - 명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)| [Lv.2 - 행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [Lv.2 - 요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) |
+|6/13|[Lv.1 - 덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)| [Lv.2 - 귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | - |
+|6/20|[Lv.1 - 삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)| [Lv.2 - 점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [Lv.2 - 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) |
 
 
 ## 🏝 커밋 규칙
