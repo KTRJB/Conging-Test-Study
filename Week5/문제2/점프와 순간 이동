@@ -1,0 +1,31 @@
+```swift
+import Foundation
+
+func programmers_week5_2(_ n: Int) -> Int {
+    // 건전지 사용량을 저장할 변수
+    var ans: Int = 0
+
+    // 현재 위치를 나타내는 변수, 초기값은 목표 거리 n
+    var num = n
+
+    // num이 1보다 클 때까지 반복
+    while num > 1 {
+        // num이 짝수인 경우
+        if num % 2 == 0 {
+            // 순간이동: num을 절반으로 나눔
+            num /= 2
+        } else {
+            // num이 홀수인 경우
+            // 1칸 점프: 건전지 사용량 1 추가
+            ans += 1
+            // 점프 후 num을 절반으로 나눔
+            num = (num - 1) / 2
+        }
+    }
+
+    // 최종적으로 남은 1칸 점프
+    ans += 1
+
+    return ans  // 최소 건전지 사용량 반환
+}
+```
