@@ -27,8 +27,7 @@
 |6/6|[Lv.1 - 명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)| [Lv.2 - 행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [Lv.2 - 요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) |
 |6/13|[Lv.1 - 덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)| [Lv.2 - 귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | - |
 |6/20|[Lv.1 - 삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)| [Lv.2 - 점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [Lv.2 - 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) |
-|6/27|[Lv.1 - 예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)| [Lv.1 - 숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [Lv.2 - 롤케이크 자르기
-](https://school.programmers.co.kr/learn/courses/30/lessons/132265) |
+|6/27|[Lv.1 - 예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)| [Lv.1 - 숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [Lv.2 - 롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) |
 
 ## 🏝 커밋 규칙
 
