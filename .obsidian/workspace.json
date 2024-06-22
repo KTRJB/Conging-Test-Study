@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week5/문제2/브래드/점프와 순간 이동.md",
+                "file": "Week6/문제1/브래드/예산.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week5/문제2/브래드/점프와 순간 이동.md",
+                "file": "Week6/문제1/브래드/예산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week5/문제2/브래드/점프와 순간 이동.md",
+                "file": "Week6/문제1/브래드/예산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week5/문제2/브래드/점프와 순간 이동.md"
+                "file": "Week6/문제1/브래드/예산.md"
               }
             }
           }
@@ -148,17 +148,32 @@
   },
   "active": "5813cc99c4a159cb",
   "lastOpenFiles": [
-    "Week5/문제1/브래드/삼총사.md",
     "Week5/문제2/브래드/점프와 순간 이동.md",
-    "Week5/문제2/브래드",
-    "Week5/브래드",
-    "Week5/무제 폴더",
-    "Week5/문제2",
+    "Week6/문제1/브래드/예산.md",
+    "Week6/문제1/브래드",
+    "Week6/문제1",
+    "Week6",
+    "Week5/문제3/수꿍/문자열 압축.md",
+    "Week5/문제3/Yeton/3.문자열압축.md",
+    "Week5/문제3/Judy/문자열압축.md",
+    "Week5/문제3/수꿍",
+    "Week5/문제3/Yeton",
+    "Week5/문제3/Judy",
+    "Week5/문제3",
+    "Week5/문제2/수꿍/점프와 순간 이동.md",
+    "Week5/문제2/수꿍",
+    "Week5/문제2/Yeton/2. 점프와 순간이동.md",
+    "Week5/문제2/Yeton",
+    "Week5/문제2/Judy/점프와순간이동.md",
+    "Week5/문제2/Judy",
+    "Week5/문제2/Groot/Groot/문자열압축.md",
+    "Week5/문제2/Groot/점프와순간이동.md",
+    "Week5/문제1/수꿍/삼총사.md",
+    "Week5/문제1/Yeton/삼총사.md",
+    "Week5/문제1/Judy/삼총사.md",
+    "Week5/문제1/Groot/삼총사.md",
+    "Week5/문제1/브래드/삼총사.md",
     "Week3/문제3/브래드/요격 시스템.md",
-    "Week5/문제1/브래드",
-    "Week5/문제1",
-    "Week5",
-    "무제 폴더",
     "Week4/문제2/수꿍/귤 고르기.md",
     "Week4/문제2/Yeton/귤고르기.md",
     "Week4/문제2/Judy/귤고르기.md",
@@ -167,17 +182,7 @@
     "Week4/문제1/Yeton/덧칠하기.md",
     "Week4/문제1/Judy/덧칠하기.md",
     "Week4/문제1/Groot/덧칠하기.md",
-    "Week4/문제2/수꿍",
-    "Week4/문제2/Yeton",
     "Week3/문제3/Yeton/요격시스템.md",
-    "Week3/문제3/Groot/요격시스템.md",
-    "Week3/문제2/Yeton/행렬의곱셈.md",
-    "Week3/문제2/Groot/행렬의곱셉.md",
-    "Week3/문제1/Yeton/명예의전당.md",
-    "Week3/문제1/Groot/명예의전당.md",
-    "Week2/문제3/Yeton/할인행사.md",
-    "Week3/문제2/브래드/행렬의 곱셈.md",
-    "Week3/문제1/브래드/명예의 전당(1).md",
-    "Week2/문제2/브래드/괄호 회전하기.md"
+    "Week3/문제3/Groot/요격시스템.md"
   ]
 }
