@@ -29,6 +29,10 @@
 |6/20|[Lv.1 - 삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)| [Lv.2 - 점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [Lv.2 - 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) |
 |6/27|[Lv.1 - 예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)| [Lv.1 - 숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [Lv.2 - 롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) |
 |7/4|[Lv.1 - 추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=swift)| [Lv.1 - 가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [Lv.2 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |
+|7/11|[카드뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)| [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|
+
+> 템플릿
+> |날짜| [제목1](url1) | [제목2](url2) | [제목3](url3) |
 
 ## 🏝 커밋 규칙
 
