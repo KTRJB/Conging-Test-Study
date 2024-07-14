@@ -30,6 +30,7 @@
 |6/27|[Lv.1 - 예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)| [Lv.1 - 숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [Lv.2 - 롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) |
 |7/4|[Lv.1 - 추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=swift)| [Lv.1 - 가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [Lv.2 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |
 |7/11|[Lv.1 - 카드뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)| [Lv.2 - 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [Lv.2 - 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|
+|7/18|[Lv.1 - 대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)| [Lv.1 - 과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [Lv.2 - 연속된 부분 수열의 ](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|
 
 > 템플릿
 > |날짜| [Lv.2 - 제목1](url1) | [Lv.2 - 제목2](url2) | [Lv.2 - 제목3](url3) |
