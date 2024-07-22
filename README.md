@@ -31,7 +31,7 @@
 |7/4|[Lv.1 - 추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=swift)| [Lv.1 - 가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [Lv.2 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |
 |7/11|[Lv.1 - 카드뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)| [Lv.2 - 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [Lv.2 - 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|
 |7/18|[Lv.1 - 대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)| [Lv.1 - 과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [Lv.2 - 연속된 부분 수열의 ](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|
-|7/25|[Lv.1 - 시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)| [Lv.2 - 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [Lv.2 - 튜플 ](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|
+|7/25|[Lv.1 - 시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)| [Lv.2 - 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [Lv.2 - 튜플 ](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|
 
 
 > 템플릿
