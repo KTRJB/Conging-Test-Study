@@ -32,7 +32,7 @@
 |7/11|[Lv.1 - 카드뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)| [Lv.2 - 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [Lv.2 - 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|
 |7/18|[Lv.1 - 대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)| [Lv.1 - 과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [Lv.2 - 연속된 부분 수열의 ](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|
 |7/25|[Lv.1 - 시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)| [Lv.2 - 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [Lv.2 - 튜플 ](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|
-
+|8/1|[Lv.1 - 푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)| [Lv.1 - 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [Lv.2 - 택배상자 ](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|
 
 > 템플릿
 > |날짜| [Lv.2 - 제목1](url1) | [Lv.2 - 제목2](url2) | [Lv.2 - 제목3](url3) |
