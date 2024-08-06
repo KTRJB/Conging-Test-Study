@@ -33,7 +33,7 @@
 |7/18|[Lv.1 - 대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)| [Lv.1 - 과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [Lv.2 - 연속된 부분 수열의 ](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|
 |7/25|[Lv.1 - 시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)| [Lv.2 - 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [Lv.2 - 튜플 ](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|
 |8/1|[Lv.1 - 푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)| [Lv.1 - 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [Lv.2 - 택배상자 ](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|
-|8/8|[Lv.1 - 추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)| [Lv.1 - 가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [Lv.2 - 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|
+|8/8|[Lv.1 - 추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)| [Lv.1 - 문자열 내맘대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [Lv.2 - 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|
 
 > 템플릿
 > |날짜| [Lv.2 - 제목1](url1) | [Lv.2 - 제목2](url2) | [Lv.2 - 제목3](url3) |
