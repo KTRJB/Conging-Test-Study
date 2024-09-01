@@ -36,9 +36,8 @@
 |8/8|[Lv.1 - 기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)| [Lv.1 - 문자열 내맘대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [Lv.2 - 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|
 |8/15| [Lv.1 - 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680 ) | [Lv.2 - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [Lv.2 - 프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) |
 |8/22| [Lv.3 - 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628 ) | [Lv.3 - 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |
-|8/29| [Lv.1 - 2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) | [Lv.2 - n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [Lv.2 - 예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) |
+|9/5| [Lv.1 - 2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) | [Lv.2 - n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [Lv.2 - 예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) |
 
-https://school.programmers.co.kr/learn/courses/30/lessons/43162
 > 템플릿
 > |날짜| [Lv.2 - 제목1](url1) | [Lv.2 - 제목2](url2) | [Lv.2 - 제목3](url3) |
 
