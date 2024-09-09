@@ -35,8 +35,9 @@
 |8/1|[Lv.1 - 푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)| [Lv.1 - 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [Lv.2 - 택배상자 ](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|
 |8/8|[Lv.1 - 기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)| [Lv.1 - 문자열 내맘대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [Lv.2 - 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|
 |8/15| [Lv.1 - 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680 ) | [Lv.2 - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [Lv.2 - 프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) |
-|8/22| [Lv.3 - 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628 ) | [Lv.3 - 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |
+|8/29| [Lv.3 - 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628 ) | [Lv.3 - 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |
 |9/5| [Lv.1 - 2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) | [Lv.2 - n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [Lv.2 - 예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) |
+|9/12| [Lv.3 - 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | [Lv.3 - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) |
 
 > 템플릿
 > |날짜| [Lv.2 - 제목1](url1) | [Lv.2 - 제목2](url2) | [Lv.2 - 제목3](url3) |
