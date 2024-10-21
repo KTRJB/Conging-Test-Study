@@ -40,7 +40,8 @@
 |9/12| [Lv.3 - 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | [Lv.3 - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) |
 |9/12| [Lv.3 - 징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |
 |10/7| [Lv.3 - 보석쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)   | [Lv.3 - 부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)|
- 10/8| [Lv.3 - 연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)   | [Lv.3 - 파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|
+|10/20| [Lv.3 - 연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)   | [Lv.3 - 파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|
+|10/24| [Lv.2 - 모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512?language=swift)   | [Lv.3 - 불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064?language=swift)|
 > 템플릿
 > |날짜| [Lv.2 - 제목1](url1) | [Lv.2 - 제목2](url2) | [Lv.2 - 제목3](url3) |
 ## 🏝 커밋 규칙
